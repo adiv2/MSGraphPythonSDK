@@ -14,9 +14,9 @@ values=[] #Global value incase of next data loop.
 def main():
     print('Python Graph Sample code\n')
     #App reg details 
-    clientId = '41dd52a8-3fd0-49c7-917a-717c52005411'
-    clientSecret = 'Tm68Q~i3-NcgPMqulNz_DFO~0ESBR14JuS6aEa~7'
-    tenantId = 'e006b130-bb76-4e10-874f-cf4fe1b9aa00'
+    clientId = 'Client ID'
+    clientSecret = 'Client Secret'
+    tenantId = 'Tenant ID'
     authTenant = 'Tenant ID'
     graphUserScopes = 'Scopes'# 'User.Read Mail.Read Mail.Send'
 
